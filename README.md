@@ -1,6 +1,6 @@
 INTRODUCTION:
 
-This repository contains implementations of various NUMERICAL AND STATISTICAL COMPUTING techniques using Python.
+This repository contains implementations of various NUMERICAL AND STATISTICAL COMPUTING techniques using C++.
 It covers fundamental concepts, efficient algorithms, and practical applications in computational mathematics and data analysis.
 
 
