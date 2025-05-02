@@ -13,18 +13,3 @@ Statistical Analysis: Probability distributions, hypothesis testing, regression 
 Optimization: Gradient descent, constrained optimization techniques.
 
 Machine Learning Fundamentals: Basic statistical models, data preprocessing, feature engineering.
-
-
-REQUIREMENTS:
-
-Ensure you have the following installed:
-
-Python (>= 3.8)
-
-NumPy
-
-SciPy
-
-Pandas
-
-Matplotlib
